@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Bentham";
+    src: url("../fonts/bentham/bentham.eot") format("eot"),
+    url("../fonts/bentham/bentham.woff") format("woff"),
+    url("../fonts/bentham/bentham.ttf") format("truetype"),
+    url("../fonts/bentham/bentham.svg#Samplino") format("svg");
+}
+@font-face {
+    font-family: "Abel_regular";
+    src: url("../fonts/abel_regular/abel-regular.eot") format("eot"),
+    url("../fonts/abel_regular/abel-regular.woff") format("woff"),
+    url("../fonts/abel_regular/abel-regular.ttf") format("truetype"),
+    url("../fonts/abel_regular/abel-regular.svg#Samplino") format("svg");
+}
+
